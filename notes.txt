@@ -1,0 +1,32 @@
+https://python.datalumina.com/
+
+https://github.com/datalumina/datalumina-project-template 
+
+https://app.datalumina.academy/c/python-course
+
+https://python.datalumina.com/getting-started/virtual-environments#macos%2Flinux
+
+https://github.com/daveebbelaar/ai-cookbook/tree/main/patterns/workflows
+
+source .venv/bin/activate
+
+requests - Make web requests
+pandas - Work with data tables
+beautifulsoup4 - Parse HTML
+openai - Use AI models
+python-dotenv - Manage secrets
+
+requests - Download web pages and data
+pandas - Work with spreadsheets and data
+numpy - Fast mathematical operations
+openai - Connect to AI models
+beautifulsoup4 - Extract data from websites
+
+# Install exact version
+pip install requests==2.30.0
+
+# Install minimum version
+pip install requests>=2.28.0
+
+# Install compatible version
+pip install requests~=2.31.0
